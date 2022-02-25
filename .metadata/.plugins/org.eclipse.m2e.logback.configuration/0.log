@@ -1,0 +1,10 @@
+2022-02-25 18:17:28,395 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-02-25 18:18:18,068 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: in.co.rays:project_3:0.0.1-SNAPSHOT @ E:\MYPROJECT-3_LEAD\MYPROJECT-3-main\pom.xml.
+2022-02-25 18:18:23,224 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /project_3/src/main/java
+2022-02-25 18:18:23,224 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /project_3/src/main/resources
+2022-02-25 18:18:23,226 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /project_3/src/test/java
+2022-02-25 18:18:25,115 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2022-02-25 18:18:35,566 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-25 18:18:35,623 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2022-02-25 18:18:35,705 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-25 18:18:35,706 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MYPROJECT-3_LEAD\MYPROJECT-3-main\src\test\resources
